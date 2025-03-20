@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository.
 <br>
-author- Simnan
+author- Simnan (apna college)
